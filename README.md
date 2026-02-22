@@ -10,8 +10,6 @@ pytest tests/test_boundary.py -v
   ✅ Invalid email correctly rejected
 
 ...
-
-============== 6 passed in 45.23s ==============
 📖 What You'll Learn
 Selenium WebDriver basics
 Finding elements (By.ID, By.CSS_SELECTOR)
